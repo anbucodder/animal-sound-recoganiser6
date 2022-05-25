@@ -1,0 +1,47 @@
+.main_div{
+    background-color: pink;
+    border-radius: 10px;
+    border: 2px deeppink solid;
+    padding: 25px;
+    width: 1300px;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+body{
+    background-color: cyan;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+}
+.copy-right-footer{
+    background-color: cyan;
+    font-weight: bold;
+    font-family: 'Koulen', cursive;
+    letter-spacing: 3px;
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    color: rgb(135, 129, 129);
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(68, 68, 71);
+}
+.header_div{
+    background-color: cyan;
+    border: 1px solid black ;
+    border-radius: 14px;
+    color: crimson;
+    font-size: 30px;
+}
+.header_div p{
+    font-family: 'Koulen', cursive;
+    color: grey;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: 2px;
+}
+.main_div button{
+    letter-spacing: 3px;
+    margin: 15px;
+    padding: 12px;
+    font-size: 18;
+}
